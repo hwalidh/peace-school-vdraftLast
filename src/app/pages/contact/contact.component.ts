@@ -44,7 +44,7 @@ export class ContactPageComponent {
         'service_ejjo7pi',
         'template_22cee4q',
         templateParams,
-        'YOUR_PUBLIC_KEY'
+        'eR7A2Vqwmw3XraPOe'
       );
 
       // Reset form
